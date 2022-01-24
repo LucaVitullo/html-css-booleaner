@@ -11,12 +11,73 @@ width: auto;
 
 h1{
     margin-right: 700px;
+    margin-bottom: 1px;
 }
 
 #info{
     color: grey;
+    margin-top: 2px;
+    margin-right: 1250px;
+    font-size: x-large;
 }
 
 #autore{
     color: rgb(0, 162, 255);
+}
+
+.tim1{
+    width: 750px;
+}
+
+.tim2{
+    width: 640px;
+}
+
+#prima-foto-tim{
+    margin-bottom: 2px;
+    margin-top: 2px;
+}
+
+#seconda-foto-tim{
+    margin-top: 2px;
+}
+
+.evidenziato{
+    background-color: yellow;
+}
+
+.para1{
+    font-size:22px;
+    margin-bottom: 50px;
+}
+
+.lista1{
+    font-size:22px;
+    margin-bottom: 30px;
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th{
+    width: 25%;
+    font-size: 22px;
+    text-align: left;
+    background-color: rgb(100, 187, 237);
+    color:white;
+}
+td{
+font-size:22px;
+text-align: left;
+color:black;
+}
+
+.testo-lungo{
+    text-align:justify;
+}
+
+.sfondo-tabella{
+    background-color: rgb(64, 213, 224,0.4);
 }
