@@ -1,3 +1,7 @@
+body{
+    font-size: 22px;
+}
+
 #logo{
 width: 200px;
 margin-top: 100px;
@@ -59,6 +63,7 @@ h1{
 table{
     width: 100%;
     border-collapse: collapse;
+    margin-bottom: 50px;
 }
 
 th{
@@ -80,4 +85,28 @@ color:black;
 
 .sfondo-tabella{
     background-color: rgb(64, 213, 224,0.4);
+}
+
+h3{
+    color: gray;
+}
+#monitor{
+    background-image: url(img/monitor.jpg);
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 300px;
+    text-align: left;
+    margin-bottom: 0px;
+}
+
+.testo-inserzioni{
+    color: white;
+}
+
+#grafico{
+    background-image: url(img/graph.jpg);
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 300px;
+    text-align: left;
 }
